@@ -4,8 +4,8 @@ A project to summarize texts using Truncated SVD, NNMF and LDA.
 
 ### Requirements
 
-
-Name: gensim
+<Requirements>
+ - [] Name: gensim
 Version: 4.2.0
 Summary: Python framework for fast Vector Space Modelling
 Home-page: http://radimrehurek.com/gensim
@@ -14,8 +14,7 @@ Author-email: me@radimrehurek.com
 License: LGPL-2.1-only
 Location: d:\softwaresetups\installations\anaconda\envs\dmt\lib\site-packages
 Requires: Cython, numpy, scipy, smart-open
---------------------
-Name: scikit-learn
+ - [] Name: scikit-learn
 Version: 1.1.3
 Summary: A set of python modules for machine learning and data mining
 Home-page: http://scikit-learn.org
@@ -25,8 +24,7 @@ License: new BSD
 Location: d:\softwaresetups\installations\anaconda\envs\dmt\lib\site-packages
 Requires: joblib, numpy, scipy, threadpoolctl
 Required-by: mlxtend
-----------------------
-Name: nltk
+  -Name: nltk
 Version: 3.7
 Summary: Natural Language Toolkit
 Home-page: https://www.nltk.org/
@@ -35,3 +33,10 @@ Author-email: nltk.team@gmail.com
 License: Apache License, Version 2.0
 Location: d:\softwaresetups\installations\anaconda\envs\dmt\lib\site-packages
 Requires: click, joblib, regex, tqdm
+
+  
+  <Requirements/>
+
+--------------------
+
+----------------------
